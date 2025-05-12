@@ -1,13 +1,13 @@
 # Claude 国内最新使用指南~ （支持 Claude 3.7 sonnet，稳定好用~）【2025年5月更新】
 
-> 更新：**2025/05/12**            
+> 更新：**2025/05/13**            
 
-在国内轻松使用 [**Claude 中文版**](https://chat.yixiaai.com) 教程，**无需翻墙**，**支持 Claude 3.7、Claude 3.5 及中文版功能**   
+在国内轻松使用 [**Claude 中文版**](https://chat.lanjing.pro) 教程，**无需翻墙**，**支持 Claude 3.7、Claude 3.5 及中文版功能**   
 
-本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://chat.lanjing.pro)、[**Claude 国内入口**](https://chat.yixiaai.com)、[**Claude 官网平替**](https://chat.lanjing.pro) 和详细使用教程，帮助您快速使用上 Claude~
+本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://chat.lanjing.pro)、[**Claude 国内入口**](https://chat.xsimple.top)、[**Claude 官网平替**](https://chat.lanjing.pro) 和详细使用教程，帮助您快速使用上 Claude~
 
 
-**Claude 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**Claude 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**
 
 **Claude 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
@@ -15,7 +15,7 @@
 
 ## 什么是 Claude 中文版？
 
-[**Claude 中文版**](https://chat.yixiaai.com) 是 Anthropic的 Claude 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
+[**Claude 中文版**](https://chat.lanjing.pro) 是 Anthropic的 Claude 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
 
 相较于官网，**Claude 中文版**在以下方面更适合国内用户：
 
@@ -28,9 +28,9 @@
 ## 国内推荐 Claude 中文版镜像网站
 
 以下是我们精选的国内优质 **Claude 中文版镜像网站**，无需翻墙即可使用：
-- [chat.yixiaai.com](https://chat.yixiaai.com/) - **Claude 中文版**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~
+- [chat.yixiaai.com](https://chat.xsimple.top/) - **Claude 中文版**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~
 - [chat.lanjing.pro](https://chat.lanjing.pro/) - **Claude 中文站**，支持 Claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
-- [chat.lify.vip](https://www.yixiaai.com) - **Claude 镜像网站**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [chat.lify.vip](https://chat.yixiaai.com) - **Claude 镜像网站**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **ChatGPT 镜像网站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 - [lanjing.pro](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
